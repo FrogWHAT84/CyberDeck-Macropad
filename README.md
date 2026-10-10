@@ -1,6 +1,11 @@
+<img width="1283" height="634" alt="image" src="https://github.com/user-attachments/assets/1ba2c948-abb4-4228-ba0b-6287f9292d19" />
 # ⌨️ CyberDeck Macropad & HA Controller
 
 A compact, highly customizable 7-key mechanical macropad featuring a rotary encoder and an OLED status display. Built on the ESP32-S3 microcontroller, it seamlessly switches between PC media/macro control and Home Assistant smart home integration.
+<img width="1283" height="634" alt="image" src="https://github.com/user-attachments/assets/1ba2c948-abb4-4228-ba0b-6287f9292d19" />
+<img width="947" height="597" alt="image" src="https://github.com/user-attachments/assets/2a0612ff-ec3a-4ea3-b446-dc3e0a88cda6" />
+<img width="1268" height="650" alt="image" src="https://github.com/user-attachments/assets/f0e70b13-3f2e-4d7f-9daa-e4a49c58d3b3" />
+<img width="1277" height="658" alt="image" src="https://github.com/user-attachments/assets/acf3a0d9-4965-409c-8c7d-a95ac3220edd" />
 
 ## ✨ Features
 
