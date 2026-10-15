@@ -5,6 +5,8 @@ A compact, highly customizable 7-key mechanical macropad featuring a rotary enco
 <img width="947" height="597" alt="image" src="https://github.com/user-attachments/assets/2a0612ff-ec3a-4ea3-b446-dc3e0a88cda6" />
 <img width="1268" height="650" alt="image" src="https://github.com/user-attachments/assets/f0e70b13-3f2e-4d7f-9daa-e4a49c58d3b3" />
 <img width="1277" height="658" alt="image" src="https://github.com/user-attachments/assets/acf3a0d9-4965-409c-8c7d-a95ac3220edd" />
+<img width="1219" height="660" alt="Screenshot_45" src="https://github.com/user-attachments/assets/ac71f5c1-707b-4f79-8238-74c54570f813" />
+<img width="1196" height="657" alt="Screenshot_44" src="https://github.com/user-attachments/assets/e75206d8-0514-4684-8236-a18b29e29e5d" />
 
 ## ✨ Features
 
