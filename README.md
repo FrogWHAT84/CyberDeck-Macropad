@@ -1,4 +1,4 @@
-# ⌨️ CyberDeck Macropad & HA Controller
+#  CyberDeck Macropad & HA Controller
 
 A compact, highly customizable 7-key mechanical macropad featuring a rotary encoder and an OLED status display. Built on the ESP32-S3 microcontroller, it seamlessly switches between PC media/macro control and Home Assistant smart home integration.
 <img width="1283" height="634" alt="image" src="https://github.com/user-attachments/assets/1ba2c948-abb4-4228-ba0b-6287f9292d19" />
@@ -8,7 +8,7 @@ A compact, highly customizable 7-key mechanical macropad featuring a rotary enco
 <img width="1219" height="660" alt="Screenshot_45" src="https://github.com/user-attachments/assets/ac71f5c1-707b-4f79-8238-74c54570f813" />
 <img width="1196" height="657" alt="Screenshot_44" src="https://github.com/user-attachments/assets/e75206d8-0514-4684-8236-a18b29e29e5d" />
 
-## ✨ Features
+##  Features
 
 * **Dual Mode Operation:**
   * **PC Mode (USB / BLE):** Functions as a custom HID keyboard sending non-conflicting `F13`–`F24` keys, media controls, and volume adjustments.
@@ -19,7 +19,7 @@ A compact, highly customizable 7-key mechanical macropad featuring a rotary enco
   * **0.96" OLED Display (SSD1306/ST7789)** for active mode, PC stats, or room conditions.
   * **ESP32-S3 Microcontroller** (Native USB, Wi-Fi, BLE support).
 
-## 🛠️ Hardware Requirements (BOM)
+## Hardware Requirements (BOM)
 
 * Microcontroller: ESP32-S3 SuperMini (or similar MCU)
 * Switches: 7x Cherry MX compatible switches + Kailh Hot-Swap Sockets
