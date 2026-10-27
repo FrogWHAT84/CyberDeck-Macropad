@@ -32,10 +32,9 @@ A compact, highly customizable 7-key mechanical macropad featuring a rotary enco
 
 | Part | Qty | Unit | Total | Vendor |
 | :--- | :---: | :---: | :---: | :--- |
-| **ESP32-C6-DEV-KIT-N8-M** <br><sub>the main processing</sub> | 1 | $9.00 | $9.00 | Aliexpress[cite: 6] |
-| **modOLED096_I2C_GVSS** <br><sub>screen</sub> | 1 | $4.00 | $4.00 | Aliexpress[cite: 6] |
-| **WS2812B** <br><sub>RGB!</sub> | 1 | $4.60 | $4.60 | Aliexpress[cite: 6] |
-| **EC11** <br><sub>encoder</sub> | 1 | $1.50 | $1.50 | Aliexpress[cite: 6] |
-| **tp4056** <br><sub>charging</sub> | 1 | $3.00 | $3.00 | Aliexpress[cite: 6] |
-| **kalih socket** <br><sub>socket for switches</sub> | 1 | $1.50 | $1.50 | Aliexpress[cite: 6] |
-| **Tax & shipping** <br><sub>for the whole order</sub> | - | - | $0.00 | -[cite: 6] |
+| **ESP32-C6-DEV-KIT-N8-M** <br><sub>the main processing</sub> | 1 | $9.00 | $9.00 | Aliexpress |
+| **modOLED096_I2C_GVSS** <br><sub>screen</sub> | 1 | $4.00 | $4.00 | Aliexpress |
+| **WS2812B** <br><sub>RGB!</sub> | 1 | $4.60 | $4.60 | Aliexpress |
+| **EC11** <br><sub>encoder</sub> | 1 | $1.50 | $1.50 | Aliexpress|
+| **tp4056** <br><sub>charging</sub> | 1 | $3.00 | $3.00 | Aliexpress |
+| **kalih socket** <br><sub>socket for switches</sub> | 1 | $1.50 | $1.50 | Aliexpress |
